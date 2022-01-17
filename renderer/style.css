@@ -1,0 +1,20 @@
+.element {
+  border-radius: 0.3rem;
+  border: 1px solid rgb(99, 99, 99);
+  padding: 0.5rem 2rem;
+  margin-top: 0.3rem;
+  box-shadow: -1px 10px 21px -8px rgba(0, 0, 0, 0.62);
+  -webkit-box-shadow: -1px 10px 21px -8px rgba(0, 0, 0, 0.62);
+  -moz-box-shadow: -1px 10px 21px -8px rgba(0, 0, 0, 0.62);
+}
+.title {
+}
+.note {
+}
+.btn {
+  border: none;
+  padding: 0.54rem 2rem;
+  background-color: black;
+  color: #fff;
+  border-radius: 0.2rem;
+}
